@@ -1,3 +1,4 @@
-# Spring-Boot-JPA-MYSQL
-The application is based on using JDBC drivers to connect with external database and perform RESTful webservices to manipulate data in real time.
+# Spring-Boot-Entity-Relationship
+The Spring Boot application deals with Many-To-One relationship where the backend database is connected through MYSQL server.
+
 
