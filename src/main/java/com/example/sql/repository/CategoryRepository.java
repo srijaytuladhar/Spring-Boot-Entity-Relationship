@@ -7,9 +7,9 @@ import org.springframework.data.repository.CrudRepository;
 
 import java.util.List;
 
-public interface CategoryRepository extends CrudRepository<Category, Integer> {
+public interface CategoryRepository extends JpaRepository<Category, Integer> {
 
     //  public List<Category> findByProductId(int productId);
-    // public List<Category> findByProductName(String name);
+    //  public List<Category> findByProductName(String name);
 
 }
